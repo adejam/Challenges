@@ -17,4 +17,8 @@ Solving Challenges on Hackkerrank.
   - [Solution](./js/veryBigSum.js)
 
 - [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)
+
   - [Solution](./js/diagonalDifference.js)
+
+- [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)
+  - [Solution](./js/plusMinus.js)
