@@ -33,4 +33,8 @@ Solving Challenges on Hackkerrank.
   - [Solution](./js/miniMaxSum.js)
 
 - [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)
+
   - [Solution](./js/appleAndOrange.js)
+
+- [Grading Students](https://www.hackerrank.com/challenges/grading/problem)
+  - [Solution](./js/gradingStudents.js)
