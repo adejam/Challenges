@@ -41,4 +41,8 @@ Solving Challenges on Hackkerrank.
   - [Solution](./js/gradingStudents.js)
 
 - [Birthday Cake candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)
+
   - [Solution](./js/birthdayCakeCandles.js)
+
+- [Breaking Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)
+  - [Solution](./js/breakingRecords.js)
