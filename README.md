@@ -61,4 +61,8 @@ Solving Challenges on Hackkerrank.
   - [Solution](./js/sockMerchant.js)
 
 - [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)
+
   - [Solution](./js/countingValleys.js)
+
+- [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)
+  - [Solution](./js/electronicsShop.js)
