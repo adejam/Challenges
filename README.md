@@ -37,4 +37,8 @@ Solving Challenges on Hackkerrank.
   - [Solution](./js/appleAndOrange.js)
 
 - [Grading Students](https://www.hackerrank.com/challenges/grading/problem)
+
   - [Solution](./js/gradingStudents.js)
+
+- [Birthday Cake candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)
+  - [Solution](./js/birthdayCakeCandles.js)
