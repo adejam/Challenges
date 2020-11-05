@@ -69,4 +69,8 @@ Solving Challenges on Hackkerrank.
   - [Solution](./js/electronicsShop.js)
 
 - [Cat And a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)
+
   - [Solution](./js/catAndMouse.js)
+
+- [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem)
+  - [Solution](./js/circularArrayRotation.js)
