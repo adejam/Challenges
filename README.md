@@ -57,4 +57,8 @@ Solving Challenges on Hackkerrank.
   - [Solution](./js/bonAppetit.js)
 
 - [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)
+
   - [Solution](./js/sockMerchant.js)
+
+- [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)
+  - [Solution](./js/countingValleys.js)
