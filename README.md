@@ -49,4 +49,8 @@ Solving Challenges on Hackkerrank.
   - [Solution](./js/breakingRecords.js)
 
 - [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)
+
   - [Solution](./js/divisibleSumPairs.js)
+
+- [Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit/problem)
+  - [Solution](./js/bonAppetit.js)
