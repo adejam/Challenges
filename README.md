@@ -65,4 +65,8 @@ Solving Challenges on Hackkerrank.
   - [Solution](./js/countingValleys.js)
 
 - [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)
+
   - [Solution](./js/electronicsShop.js)
+
+- [Cat And a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)
+  - [Solution](./js/catAndMouse.js)
