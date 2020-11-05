@@ -21,7 +21,12 @@ Solving Challenges on Hackkerrank.
   - [Solution](./js/diagonalDifference.js)
 
 - [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)
+
   - [Solution](./js/plusMinus.js)
 
 - [Staircase](https://www.hackerrank.com/challenges/staircase/problem)
+
   - [Solution](./js/staircase.js)
+
+- [Mini-max-sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)
+  - [Solution](./js/miniMaxSum.js)
