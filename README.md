@@ -73,4 +73,8 @@ Solving Challenges on Hackkerrank.
   - [Solution](./js/catAndMouse.js)
 
 - [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem)
+
   - [Solution](./js/circularArrayRotation.js)
+
+- [Save The Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)
+  - [Solution](./js/saveThePrisoner.js)
