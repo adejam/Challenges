@@ -53,4 +53,8 @@ Solving Challenges on Hackkerrank.
   - [Solution](./js/divisibleSumPairs.js)
 
 - [Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit/problem)
+
   - [Solution](./js/bonAppetit.js)
+
+- [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)
+  - [Solution](./js/sockMerchant.js)
