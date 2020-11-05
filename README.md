@@ -45,4 +45,8 @@ Solving Challenges on Hackkerrank.
   - [Solution](./js/birthdayCakeCandles.js)
 
 - [Breaking Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)
+
   - [Solution](./js/breakingRecords.js)
+
+- [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)
+  - [Solution](./js/divisibleSumPairs.js)
