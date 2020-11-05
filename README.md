@@ -29,4 +29,8 @@ Solving Challenges on Hackkerrank.
   - [Solution](./js/staircase.js)
 
 - [Mini-max-sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)
+
   - [Solution](./js/miniMaxSum.js)
+
+- [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)
+  - [Solution](./js/appleAndOrange.js)
