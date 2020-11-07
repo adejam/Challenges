@@ -1,6 +1,6 @@
 let digit = 0;
    const temp = n;
-//$count = count($n);
+//$count = count($n); not yet solved
 
 while (temp != 0) {
   let d = temp % 10;

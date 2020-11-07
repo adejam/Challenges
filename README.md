@@ -4,77 +4,42 @@ Solving Challenges on Hackkerrank.
 
 ## Javascript Solutions
 
-- [simple array sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)
+- [simple array sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) [Solution](./js/simpleArraySum.js)
 
-  - [Solution](./js/simpleArraySum.js)
+- [Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) [Solution](./js/compareTheTriplets.js)
 
-- [Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
+- [A very big sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) [Solution](./js/veryBigSum.js)
 
-  - [Solution](./js/compareTheTriplets.js)
+- [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) [Solution](./js/diagonalDifference.js)
 
-- [A very big sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)
+- [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) [Solution](./js/plusMinus.js)
 
-  - [Solution](./js/veryBigSum.js)
+- [Staircase](https://www.hackerrank.com/challenges/staircase/problem) [Solution](./js/staircase.js)
 
-- [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)
+- [Mini-max-sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) [Solution](./js/miniMaxSum.js)
 
-  - [Solution](./js/diagonalDifference.js)
+- [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) [Solution](./js/appleAndOrange.js)
 
-- [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)
+- [Grading Students](https://www.hackerrank.com/challenges/grading/problem) [Solution](./js/gradingStudents.js)
 
-  - [Solution](./js/plusMinus.js)
+- [Birthday Cake candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) [Solution](./js/birthdayCakeCandles.js)
 
-- [Staircase](https://www.hackerrank.com/challenges/staircase/problem)
+- [Breaking Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) [Solution](./js/breakingRecords.js)
 
-  - [Solution](./js/staircase.js)
+- [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) [Solution](./js/divisibleSumPairs.js)
 
-- [Mini-max-sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)
+- [Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit/problem) [Solution](./js/bonAppetit.js)
 
-  - [Solution](./js/miniMaxSum.js)
+- [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem) [Solution](./js/sockMerchant.js)
 
-- [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)
+- [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem) [Solution](./js/countingValleys.js)
 
-  - [Solution](./js/appleAndOrange.js)
+- [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem) [Solution](./js/electronicsShop.js)
 
-- [Grading Students](https://www.hackerrank.com/challenges/grading/problem)
+- [Cat And a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) [Solution](./js/catAndMouse.js)
 
-  - [Solution](./js/gradingStudents.js)
+- [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem) [Solution](./js/circularArrayRotation.js)
 
-- [Birthday Cake candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)
+- [Save The Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem) [Solution](./js/saveThePrisoner.js)
 
-  - [Solution](./js/birthdayCakeCandles.js)
-
-- [Breaking Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)
-
-  - [Solution](./js/breakingRecords.js)
-
-- [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)
-
-  - [Solution](./js/divisibleSumPairs.js)
-
-- [Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit/problem)
-
-  - [Solution](./js/bonAppetit.js)
-
-- [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)
-
-  - [Solution](./js/sockMerchant.js)
-
-- [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)
-
-  - [Solution](./js/countingValleys.js)
-
-- [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)
-
-  - [Solution](./js/electronicsShop.js)
-
-- [Cat And a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)
-
-  - [Solution](./js/catAndMouse.js)
-
-- [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem)
-
-  - [Solution](./js/circularArrayRotation.js)
-
-- [Save The Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)
-  - [Solution](./js/saveThePrisoner.js)
+- [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) [Solution](./js/timeConversion.js)
