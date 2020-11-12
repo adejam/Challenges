@@ -43,3 +43,5 @@ Solving Challenges on Hackkerrank.
 - [Save The Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem) [Solution](./js/saveThePrisoner.js)
 
 - [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) [Solution](./js/timeConversion.js)
+
+- [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem) [Solution](./js/kangaroo.js)
